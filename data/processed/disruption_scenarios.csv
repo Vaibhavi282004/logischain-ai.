@@ -1,0 +1,9 @@
+scenario_id,scenario,description,delay_change,freight_change,inventory_change
+S01,Port Congestion,Major port congestion increases shipment delays.,0.35,0.25,15
+S02,Supplier Failure,Critical supplier experiences operational failure.,0.4,0.2,20
+S03,Geopolitical Disruption,Trade route disruption increases route risk.,0.45,0.35,25
+S04,Demand Shock,Sudden demand decline creates inventory pressure.,0.1,0.15,30
+S05,Carrier Disruption,Carrier reliability deteriorates.,0.5,0.3,20
+S06,Fuel Cost Shock,Transportation costs increase significantly.,0.1,0.45,10
+S07,Working Capital Stress,Longer inventory cycles increase financing pressure.,0.25,0.2,35
+S08,Multi-node Disruption,Several supply-chain nodes experience simultaneous disruption.,0.55,0.4,40

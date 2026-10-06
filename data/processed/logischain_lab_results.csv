@@ -1,0 +1,9 @@
+scenario_id,scenario,portfolio_expected_loss,financial_impact,average_CCC
+S01,Port Congestion,91589.47,5441.32,247.08
+S02,Supplier Failure,90500.5,4352.34,252.08
+S03,Geopolitical Disruption,104709.49,18561.34,257.08
+S04,Demand Shock,91664.3,5516.15,262.08
+S05,Carrier Disruption,98042.2,11894.05,252.08
+S06,Fuel Cost Shock,103132.8,16984.65,242.08
+S07,Working Capital Stress,98224.31,12076.16,267.08
+S08,Multi-node Disruption,117598.74,31450.59,272.08
